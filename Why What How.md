@@ -1,9 +1,9 @@
 ## Technology
-* [Artificial-Intelligency](#Artificial-Intelligency)
+* [Artificial Intelligency](#Artificial-Intelligency)
 * [Algorithms/DataStructure](#Algorithms/DataStructure)
   * [Sort](#Sort)
   * [Tree](#Tree)
-* [Computer-Funcation](#Computer-Function)
+* [Computer Funcation](#Computer-Funcation)
 * [Database](#Database)
   * [MySQL](#MySQL)
   * [Redis](#Redis)
@@ -26,8 +26,8 @@
 * [Programming](#Programming)
 * [Software/Website](#Software/Website])
 * [Why](#Why)
-## Live
-* [Money](#Money)
+* [Live](#Live)
+   * [Money](#Money)
 
 ## Artificial Intelligency
 * AI是怎么脱掉女性的衣服的
@@ -37,6 +37,9 @@
 
 ### Sort
 * 为什么要学排序算法（排序算法用在哪些地方）
+
+### Tree
+* B-树是什么
 
 ### Computer Funcation
 * 为什么磁盘能存东西
@@ -86,6 +89,8 @@
 * Junit是如何实现的
 * 如何实现一个定时任务
 * 如何更好的使用GitHub
+* 什么是Docker
+* 为什么阿里用中台
 
 ## Software/Website
 * 为什么IOS比安卓用起来顺滑
@@ -96,10 +101,9 @@
 * 你为什么当程序员
 * 为什么工作3年还是面试不通过
 * 为什么Arfred能读取Chrome的Bookmark
-* 什么是Docker
-* 为什么阿里用中台
 * 为什么IOS比安卓用起来顺滑
 * 为什么MacOS没有Window上的广告
+* 我为什么要离职
 
 ## Live
 * 对什么自行车会跑
@@ -110,7 +114,6 @@
 * 流量有什么用
 * 为什么飞机能起飞
 * 为什么一天是24小时
-* 我为什么要离职
 * 北京如何租房
 * 小米公司是如何盈利
 * 为什么我开始不喜欢MIUI
@@ -128,13 +131,13 @@
 * 你为什么考研
 * 你为什么问为什么
 * 你为什么焦虑
+* 京东如何成为京东
+* 怎样才能做一个好的阅读软件
 
 ### NBA
 * 什么是买断
 
-## Implement
-* 京东如何成为京东
-* 怎样才能做一个好的阅读软件
+
 
 I don’t known, so I want to know, may be you also should known.
 
