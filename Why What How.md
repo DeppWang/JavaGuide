@@ -1,6 +1,6 @@
 ## Technology
 * [Artificial Intelligency](#Artificial-Intelligency)
-* [Algorithms/DataStructure](#Algorithms-DataStructure)
+* [Algorithms/DataStructure](#AlgorithmsDataStructure)
   * [Sort](#Sort)
   * [Tree](#Tree)
 * [Computer Funcation](#Computer-Funcation)
